@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,tracker.totheglory.im
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkip.dyndns.com
+DOMAIN-SUFFIX,flyeagle.duckdns.org
+DOMAIN-SUFFIX,flyeagle.us.to
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
