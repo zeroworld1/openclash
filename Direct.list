@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,checkip.dyndns.com
 DOMAIN-SUFFIX,flyeagle.duckdns.org
 DOMAIN-SUFFIX,flyeagle.us.to
 DOMAIN-SUFFIX,zeroworld.top
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,firefox.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
