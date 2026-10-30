@@ -1,0 +1,21 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# 我的直连域名
+# 域名匹配
+DOMAIN,time.windows.com
+DOMAIN,time.nist.gov
+DOMAIN,flyeagle.duckdns.org
+DOMAIN,flyeagle.us.to
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,tracker.totheglory.im
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkip.dyndns.com
+DOMAIN-SUFFIX,zeroworld.top
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,fnos.net
+DOMAIN-SUFFIX,smzdm.com
